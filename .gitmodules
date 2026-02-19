@@ -19,3 +19,6 @@
 [submodule "xnu-1228"]
 	path = xnu-1228
 	url = https://github.com/apple-oss-distributions/xnu
+[submodule "ifdef-pp"]
+	path = ifdef-pp
+	url = https://github.com/mpsuzuki/ifdef-pp
