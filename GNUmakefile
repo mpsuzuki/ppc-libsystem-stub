@@ -1,5 +1,5 @@
 LIPO ?= powerpc64-apple-darwin9-lipo
-CC   ?= powerpc64-apple-darwin9-gcc
+CC   ?= powerpc64-apple-darwin9-base-gcc
 SRCS  = libSystem-PD9.c Libc+xnu_sym-with-dollar.c
 
 libSystem.B.dylib: libSystem.m32.dylib libSystem.m64.dylib
