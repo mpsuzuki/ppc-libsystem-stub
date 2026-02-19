@@ -1,0 +1,21 @@
+[submodule "Libc-825.24"]
+	path = Libc-825.24
+	url = https://github.com/apple-oss-distributions/Libc
+[submodule "Libm-292.4"]
+	path = Libm-292.4
+	url = https://github.com/apple-oss-distributions/Libm
+[submodule "xnu-1456.1.26"]
+	path = xnu-1456.1.26
+	url = https://github.com/apple-oss-distributions/xnu
+[submodule "Libc-498.1.7"]
+	path = Libc-498.1.7
+	url = https://github.com/apple-oss-distributions/Libc
+[submodule "Libc-498"]
+	path = Libc-498
+	url = https://github.com/apple-oss-distributions/Libc
+[submodule "xnu-1228.15.4"]
+	path = xnu-1228.15.4
+	url = https://github.com/apple-oss-distributions/xnu
+[submodule "xnu-1228"]
+	path = xnu-1228
+	url = https://github.com/apple-oss-distributions/xnu
