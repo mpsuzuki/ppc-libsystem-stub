@@ -1,0 +1,9 @@
+mkdir -p include
+mkdir -p include/bsm
+mkdir -p include/architecture/ppc
+mkdir -p include/mach
+mkdir -p include/mach/machine
+mkdir -p include/mach/ppc
+mkdir -p include/machine
+mkdir -p include/ppc
+mkdir -p include/sys
